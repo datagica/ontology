@@ -1,0 +1,1228 @@
+[
+  {
+    "type": "link",
+    "id": "link:instanceof",
+    "label": {
+      "en": "Type",
+      "fr": "Type"
+    },
+    "plural": {
+      "en": "Types",
+      "fr": "Types"
+    },
+    "description": {
+      "en": "Of type",
+      "fr": "De type"
+    },
+    "aliases": {
+      "en": [
+        "of type"
+      ],
+      "fr": [
+        "de type"
+      ]
+    }
+  },
+  {
+   "type": "link",
+   "id": "link:mention",
+   "label": {
+     "en": "Mention",
+     "fr": "Mention"
+   },
+   "label": {
+     "en": "Mentions",
+     "fr": "Mentions"
+   },
+   "description": {
+     "en": "Mention in a document",
+     "fr": "Mention dans un document"
+   },
+   "aliases": {
+     "en": [
+       "mentioned in",
+       "has a mention",
+       "is mentioned",
+       "are mentioned"
+     ],
+     "fr": [
+       "mention dans",
+       "mentions dans",
+       "mentionné dans",
+       "mentionnés dans",
+       "mentionnée dans",
+       "mentionnées dans",
+       "mention par",
+       "mentions par",
+       "mentionné par",
+       "mentionnés par",
+       "mentionnée par",
+       "mentionnées par",
+       "mention",
+       "mentions",
+       "mentionné",
+       "mentionnés",
+       "mentionnée",
+       "mentionnées"
+     ]
+   }
+ },
+ {
+  "type": "link",
+
+  "id": "link:similarity",
+  "label": {
+    "en": "Similarity",
+    "fr": "Similarité"
+  },
+  "plural": {
+    "en": "Similarities",
+    "fr": "Similarités"
+  },
+  "description": {
+    "en": "Similarity",
+    "fr": "Similarité"
+  },
+  "aliases": {
+    "en": [
+      "similarity",
+      "similarities",
+      "similar"
+    ],
+    "fr": [
+      "similarité",
+      "similarités",
+      "similaire",
+      "simiaires"
+    ]
+  }
+},
+{
+   "type": "link",
+   "id": "link:affinity",
+   "label": {
+     "en": "Affinity",
+     "fr": "Affinité"
+   },
+   "plural": {
+     "en": "Affinities",
+     "fr": "Affinités"
+   },
+   "description": {
+     "en": "Affinity",
+     "fr": "Affinité"
+   },
+   "aliases": {
+     "en": [
+       "affinity",
+       "affinities"
+     ],
+     "fr": [
+       "affinité",
+       "affinités",
+       "affinitée",
+       "affinitées"
+     ]
+   }
+ },
+ {
+   "type": "link",
+   "id": "link:born",
+   "label": {
+     "en": "Born on",
+     "fr": "Né(e) le"
+   },
+   "plural": {
+     "en": "Born on",
+     "fr": "Né(e)s le"
+   },
+   "description": {
+     "en": "Birth date",
+     "fr": "Date de naissance"
+   },
+   "aliases": {
+     "en": [
+       "born on",
+       "birthdate",
+       "birth date"
+     ],
+     "fr": [
+       "né-e le",
+       "né-e en",
+       "né(e) le",
+       "né(e) en",
+       "né le",
+       "née le",
+       "né en",
+       "née en",
+       "nés le",
+       "nées le",
+       "nés en",
+       "nées en"
+     ]
+   }
+ },
+  {
+    "type": "link",
+   "id": "link:residence",
+   "label": {
+     "en": "Residence",
+     "fr": "Résidence"
+   },
+   "plural": {
+     "en": "Residences",
+     "fr": "Résidences"
+   },
+   "description": {
+     "en": "Lives in/at",
+     "fr": "Vis à/au"
+   },
+   "aliases": {
+     "en": [
+       "reside in",
+       "resides in",
+       "live in",
+       "live at",
+       "lives in",
+       "lives at"
+     ],
+     "fr": [
+       "vis a",
+       "vis à",
+       "vis au",
+       "reside a",
+       "réside à",
+       "réside au",
+       "resides a",
+       "résides à",
+       "résides au",
+       "vivent a",
+       "vivent à",
+       "vivent au",
+       "resident a",
+       "résident à",
+       "résident au"
+     ]
+   }
+ },
+ {
+   "type": "link",
+   "id": "link:work",
+   "label": {
+     "en": "Works for",
+     "fr": "Travaille chez"
+   },
+   "plural": {
+     "en": "Work for",
+     "fr": "Travaillent chez"
+   },
+   "description": {
+     "en": "Works for/at",
+     "fr": "Travailler chez/pour"
+   },
+   "aliases": {
+     "en": [
+       "works for",
+       "works at",
+       "work for",
+       "work at"
+     ],
+     "fr": [
+       "travaille pour",
+       "travaille pour",
+       "travailles chez",
+       "travailles pour",
+       "travaillent chez",
+       "travaillent pour",
+       "travail chez",
+       "travail pour"
+     ]
+   }
+ },
+ {
+   "type": "discovery",
+   "id": "link:discovery",
+   "label": {
+     "en": "Discovery",
+     "fr": "Découverte"
+   },
+   "plural": {
+     "en": "Discoveries",
+     "fr": "Découvertes"
+   },
+   "description": {
+     "en": "One or more discoveries",
+     "fr": "Découverte(s)"
+   },
+   "aliases": {
+     "en": [
+       "discovery",
+       "discoveries",
+       "discover",
+       "discovers",
+       "find",
+       "finds",
+       "finding"
+     ],
+     "fr": [
+       "découverte",
+       "découvertes",
+       "découvre",
+       "découvrent",
+       "trouve",
+       "trouvent"
+     ]
+   },
+   "match": {
+       "active": [
+         "découverte?s?",
+         "(?:re)?trouvée?s?",
+         "finds?",
+         "found",
+         "discover(?:s|ed)?"
+       ],
+       "passive": [
+         "découverte?s?",
+         "(?:re)?trouvée?s?",
+         "found",
+         "discovered"
+       ]
+    }
+ },
+ {
+   "type": "purchase",
+   "id": "link:purchase",
+   "label": {
+     "en": "Purchase",
+     "fr": "Achat"
+   },
+   "plural": {
+     "en": "Purchases",
+     "fr": "Achats"
+   },
+   "description": {
+     "en": "Corporate or consumer purchases",
+     "fr": "Achats et acquisitions"
+   },
+   "aliases": {
+     "en": [
+       "purchase",
+       "purchases"
+     ],
+     "fr": [
+       "achat",
+       "achats",
+       "acquisition",
+       "acquisitions"
+     ]
+   },
+   "match": {
+      "active": [
+        "bought",
+        "purchase[ds]?",
+        "acquire[ds]?",
+        "buys?",
+        "buying",
+        "acqui[st]",
+        "(?:r)?achète(?:nt)?",
+        "acquiert"
+      ],
+      "passive": [
+        "bought",
+        "acquired",
+        "purchased",
+        "(?:r)?achetée?s?"
+      ]
+   }
+ },
+ {
+   "type": "link",
+   "id": "link:use",
+   "label": {
+     "en": "Uses",
+     "fr": "Utilise"
+   },
+   "plural": {
+     "en": "Uses",
+     "fr": "Utilise"
+   },
+   "description": {
+     "en": "Use",
+     "fr": "Utilisent"
+   },
+   "aliases": {
+     "en": [
+       "use",
+       "uses"
+     ],
+     "fr": [
+       "utilise",
+       "utilises",
+       "utilisent"
+     ]
+   }
+ },
+ {
+   "type": "link",
+   "id": "link:language",
+   "label": {
+     "en": "Speaks",
+     "fr": "Parle"
+   },
+   "plural": {
+     "en": "Speak",
+     "fr": "Parlent"
+   },
+   "description": {
+     "en": "Speaks language",
+     "fr": "Parle le langage"
+   },
+   "aliases": {
+     "en": [
+       "speak",
+       "speaks",
+       "spoken"
+     ],
+     "fr": [
+       "parle le",
+       "parle l",
+       "parlent le",
+       "parlent l"
+     ]
+   }
+ },
+ {
+   "type": "link",
+   "id": "link:masters",
+   "label": {
+     "en": "Masters",
+     "fr": "Maîtrise"
+   },
+   "plural": {
+     "en": "Master",
+     "fr": "Maîtrisent"
+   },
+   "description": {
+     "en": "Masters the skill",
+     "fr": "Maîtrise la compétence"
+   },
+   "aliases": {
+     "en": [
+       "masters the",
+       "deep knowledge of"
+     ],
+     "fr": [
+       "maîtrise la",
+       "maîtrise les",
+       "maîtrise du",
+       "maitrîse des",
+       "pratique le",
+       "pratique la",
+       "pratique les",
+       "connaît le",
+       "connaît la",
+       "connaît les"
+     ]
+   }
+ },
+ {
+   "type": "link",
+   "id": "link:own",
+   "label": {
+     "en": "Owns",
+     "fr": "Détient"
+   },
+   "plural": {
+     "en": "Own",
+     "fr": "Détiennent"
+   },
+   "description": {
+     "en": "Owns",
+     "fr": "Détient"
+   },
+   "aliases": {
+     "en": [
+       "owns"
+     ],
+     "fr": [
+       "détient",
+       "detient",
+       "détiennent",
+       "detiennent"
+     ]
+   }
+ },
+ {
+   "type": "link",
+   "id": "link:protagonist",
+   "label": {
+     "en": "Protagonist of",
+     "fr": "Protagoniste de"
+   },
+   "label": {
+     "en": "Protagonists of",
+     "fr": "Protagonistes de"
+   },
+   "description": {
+     "en": "Protagonist",
+     "fr": "Protagoniste"
+   },
+   "aliases": {
+     "en": [
+       "protagonist",
+       "protagonists",
+       "protagonist of",
+       "protagonist in",
+       "involved in",
+       "embroiled",
+       "entangled"
+     ],
+     "fr": [
+       "protagoniste",
+       "protagonistes",
+       "protagoniste de",
+       "protagoniste des",
+       "protagoniste dans",
+       "protagonistes de",
+       "protagonistes des",
+       "protagonistes dans",
+       "impliqué",
+       "participé à",
+       "participée à",
+       "participé au",
+       "participée àu"
+     ]
+   }
+ },
+ {
+   "type": "link",
+   "id": "link:role",
+   "label": {
+     "en": "Role",
+     "fr": "Rôle"
+   },
+   "plural": {
+     "en": "Roles",
+     "fr": "Rôles"
+   },
+   "description": {
+     "en": "Role",
+     "fr": "Rôle"
+   },
+   "aliases": {
+     "en": [
+       "role",
+       "roles"
+     ],
+     "fr": [
+       "rôle",
+       "rôles"
+     ]
+   }
+ },
+ {
+   "type": "link",
+   "id": "link:destruction",
+   "label": {
+     "en": "Destruction",
+     "fr": "Destruction"
+   },
+   "plural": {
+     "en": "Destructions",
+     "fr": "Destructions"
+   },
+   "description": {
+     "en": "Destruction",
+     "fr": "Destruction"
+   },
+   "aliases": {
+     "en": [
+       "destruction",
+       "destructions"
+     ]
+   },
+   "match": {
+     "passive": [
+      "détruite?s?",
+      "destroyed"
+    ]
+   }
+ },
+ {
+   "type": "link",
+   "id": "link:investigation",
+   "label": {
+     "en": "Investigation",
+     "fr": "Enquête"
+   },
+   "plural": {
+     "en": "Investigations",
+     "fr": "Enquêtes"
+   },
+   "description": {
+     "en": "Investigation",
+     "fr": "Enquête"
+   },
+   "aliases": {
+     "en": [
+       "Investigation",
+       "Investigations",
+       "Inquiry",
+       "Inquiries"
+     ],
+     "fr": [
+       "Enquête",
+       "Enquêtes",
+       "Enquete",
+       "Enquetes",
+       "Investigation",
+       "Investigations"
+     ]
+   },
+   "match": {
+     "active": [
+       "ouv(?:re(?:nt)?|erte?s?) (?:une|plusieurs) (?:investigation|enquête)s?(?: (?:contre|sur|auprès des?))?",
+       "(?:order(?:s|ing|ed)?|open(?:ed|ing|s?)?)(?: (?:an|multiples?|a new))? (?:inquir(?:y|ies)|investigations?)"
+     ]
+   }
+ },
+ {
+   "type": "link",
+   "id": "link:denial",
+   "label": {
+     "en": "Denial",
+     "fr": "Refus"
+   },
+   "plural": {
+     "en": "Denials",
+     "fr": "Refus"
+   },
+   "description": {
+     "en": "Denial",
+     "fr": "Refus"
+   },
+   "aliases": {
+     "en": [
+       "denial",
+       "denials"
+     ],
+     "fr": [
+       "refus"
+     ]
+   },
+   "match": {
+     "passive": [
+       "denied(?: to)?",
+       "(?:(?:fai(?:s|re|te?)|v(?:oir|ue?s?)) )?refus(?:er|ée?s?)(?: de)?"
+     ],
+     "active": [
+       "denied(?: to)?",
+       "refus(?:er|ée?s?)(?: de)?"
+     ]
+   }
+ },
+ {
+   "type": "link",
+   "id": "link:arrest",
+   "label": {
+     "en": "Arrest",
+     "fr": "Arrestation"
+   },
+   "plural": {
+     "en": "Arrests",
+     "fr": "Arrestations"
+   },
+   "description": {
+     "en": "Arrest",
+     "fr": "Arrestation"
+   },
+   "aliases": {
+     "en": [
+       "arrest",
+       "arrests"
+     ],
+     "fr": [
+       "arrestation",
+       "arrestations",
+       "interpellation",
+       "interpellations"
+     ]
+   },
+   "match": {
+     "passive": [
+       "arrested",
+       "captured",
+       "arrêtée?s?",
+       "interpell?ée?s?",
+       "(?:mise?s?|placés?) en (?:détention|garde à vue)"
+     ]
+   }
+ },
+ {
+   "type": "link",
+   "id": "link:change",
+   "label": {
+     "en": "Change",
+     "fr": "Changement"
+   },
+   "plural": {
+     "en": "Changes",
+     "fr": "Changements"
+   },
+   "description": {
+     "en": "Change",
+     "fr": "Changement"
+   },
+   "aliases": {
+     "en": [
+       "change"
+     ],
+     "fr": [
+       "changement"
+     ]
+   },
+   "match": {
+     "passive": [
+       "changed",
+       "transformed",
+       "changée?s?",
+       "transformée?s?"
+     ]
+   }
+ },
+ {
+   "type": "link",
+   "id": "link:attack",
+   "label": {
+     "en": "Attack",
+     "fr": "Attaque"
+   },
+   "plural": {
+     "en": "Attacks",
+     "fr": "Attaques"
+   },
+   "description": {
+     "en": "Attack",
+     "fr": "Attaque"
+   },
+   "aliases": {
+     "en": [
+       "attack",
+       "attacks",
+       "attacking",
+       "attacked",
+       "assault",
+       "assaulting",
+       "assaults"
+     ],
+     "fr": [
+       "attaque",
+       "attaquer",
+       "attaques"
+     ]
+   },
+   "match": {
+     "passive": [
+       "attacked",
+       "assaulted",
+       "(?:(?:comes?|came|coming) )?under fire",
+       "bombarded",
+       "raided",
+       "prise?s? d'assaut",
+       "attaquée?s?",
+       "bombardée?s?"
+     ]
+   }
+ },
+ {
+   "type": "link",
+   "id": "link:foundation",
+   "label": {
+     "en": "Foundation",
+     "fr": "Fondation"
+   },
+   "plural": {
+     "en": "Foundations",
+     "fr": "Fondations"
+   },
+   "description": {
+     "en": "Foundation",
+     "fr": "Fondation"
+   },
+   "aliases": {
+     "en": [
+       "foundation"
+     ],
+     "fr": [
+       "fondation"
+     ]
+   },
+   "match": {
+     "active": [
+       "founded",
+       "fondé",
+       "fondée",
+       "fondés",
+       "fondées"
+     ],
+     "passive": [
+       "founded",
+       "fondé",
+       "fondée",
+       "fondés",
+       "fondées"
+     ]
+   }
+ },
+ {
+   "type": "link",
+   "id": "link:creation",
+   "label": {
+     "en": "Creation",
+     "fr": "Création"
+   },
+   "plural": {
+     "en": "Creations",
+     "fr": "Créations"
+   },
+   "description": {
+     "en": "Creation",
+     "fr": "Création"
+   },
+   "aliases": {
+     "en": [
+       "creation",
+       "creations"
+     ],
+     "fr": [
+       "création",
+       "créations"
+     ]
+   },
+   "match": {
+     "active": [
+       "created",
+       "créé",
+       "crés",
+       "créés",
+       "créée",
+       "crées",
+       "créées"
+     ],
+     "passive": [
+       "created",
+       "créé",
+       "crés",
+       "créés",
+       "créée",
+       "crées",
+       "créées"
+     ]
+   }
+ },
+ {
+   "type": "link",
+   "id": "link:negociation-refusal",
+   "label": {
+     "en": "Negociation refusal",
+     "fr": "Refus de négociation"
+   },
+   "plural": {
+     "en": "Negociation refusals",
+     "fr": "Refus de négociation"
+   },
+   "description": {
+     "en": "Negociation refusal",
+     "fr": "Refus de négociation"
+   },
+   "aliases": {
+     "en": [
+       "negociation refusal",
+       "negociation refusals"
+     ],
+     "fr": [
+       "refus de négociation",
+       "refus de négociations"
+     ]
+   },
+   "match": {
+     "active": [
+       "fail to negociate",
+       "failed to negociate",
+       "refuse to negociate",
+       "refused to negociate",
+       "refus de négocier",
+       "refusé de négocier",
+       "refusés de négocier",
+       "refusée de négocier",
+       "refusées de négocier",
+       "refuse la négociation",
+       "refusé la négociation",
+       "refusés la négociation",
+       "refusée la négociation",
+       "refusées la négociation",
+       "refuse les négociations",
+       "refusé les négociations",
+       "refusés les négociations",
+       "refusée les négociations",
+       "refusées les négociations"
+     ],
+     "passive": [
+       "negociation has failed",
+       "negociations have failed",
+       "négociations ont été refusées",
+       "négociation a été refusée",
+       "négociation a échouée",
+       "négociations ont échouées"
+     ]
+   }
+ },
+ {
+   "type": "link",
+   "id": "link:must-be",
+   "label": {
+     "en": "Must be",
+     "fr": "Doit être"
+   },
+   "plural": {
+     "en": "Must be",
+     "fr": "Doivent être"
+   },
+   "description": {
+     "en": "Must be",
+     "fr": "Doit être"
+   },
+   "aliases": {
+     "en": [
+       "must be"
+     ],
+     "fr": [
+       "doit être"
+     ]
+   },
+   "match": {
+     "active": [
+       "must be",
+       "had to be"
+     ],
+     "passive": [
+       "devait être",
+       "doit être",
+       "doivent être"
+     ]
+   }
+ },
+ {
+   "type": "link",
+   "id": "link:must-have",
+   "label": {
+     "en": "Must have",
+     "fr": "Doit avoir"
+   },
+   "plural": {
+     "en": "Must have",
+     "fr": "Doivent avoir"
+   },
+   "description": {
+     "en": "Must have",
+     "fr": "Doit avoir"
+   },
+   "aliases": {
+     "en": [
+       "must have"
+     ],
+     "fr": [
+       "doit avoir"
+     ]
+   },
+   "match": {
+     "active": [
+       "must have",
+       "had to have"
+     ],
+     "passive": [
+       "devait avoir",
+       "doit avoir",
+       "doivent avoir"
+     ]
+   }
+ },
+ {
+   "type": "link",
+   "id": "link:must-not",
+   "label": {
+     "en": "Must not",
+     "fr": "Ne doit pas"
+   },
+   "plural": {
+     "en": "Must not",
+     "fr": "Ne doivent pas"
+   },
+   "description": {
+     "en": "Must not",
+     "fr": "Ne doit pas"
+   },
+   "aliases": {
+     "en": [
+       "must not"
+     ],
+     "fr": [
+       "ne doit pas",
+       "doit pas"
+     ]
+   },
+   "match": {
+     "active": [
+       "must not",
+       "ne devait pas",
+       "ne doit pas",
+       "ne doivent pas",
+       "ne devait",
+       "ne doit",
+       "ne doivent",
+       "devait pas",
+       "doit pas",
+       "doivent pas"
+     ],
+     "passive": [
+     ]
+   }
+ },
+ {
+   "type": "link",
+   "id": "link:important",
+   "label": {
+     "en": "Important",
+     "fr": "Important"
+   },
+   "plural": {
+     "en": "Important",
+     "fr": "Important"
+   },
+   "description": {
+     "en": "Important",
+     "fr": "Important"
+   },
+   "aliases": {
+     "en": [
+       "important"
+     ],
+     "fr": [
+       "important",
+       "importants",
+       "importante",
+       "importantes"
+     ]
+   },
+   "match": {
+     "active": [
+     ],
+     "passive": [
+       "important for",
+       "important for",
+       "important pour",
+       "important pour"
+     ]
+   }
+ },
+ {
+   "type": "link",
+   "id": "link:negociation",
+   "label": {
+     "en": "Negociation",
+     "fr": "Négociation"
+   },
+   "plural": {
+     "en": "Negociations",
+     "fr": "Négociations"
+   },
+   "description": {
+     "en": "Negociation",
+     "fr": "Négociation"
+   },
+   "aliases": {
+     "en": [
+       "negociation",
+       "negociations"
+     ],
+     "fr": [
+       "négociation",
+       "négociations"
+     ]
+   },
+   "match": {
+     "active": [
+       "negociate",
+       "negociated",
+       "négocier",
+       "négocie",
+       "négocia",
+       "négocié",
+       "négociée",
+       "négociés",
+       "négociées"
+     ],
+     "passive": [
+       "negociate",
+       "negociated",
+       "négocier",
+       "négocie",
+       "négocia",
+       "négocié",
+       "négociée",
+       "négociés",
+       "négociées"
+     ]
+   }
+ },
+ {
+   "type": "link",
+   "id": "link:vulnerability",
+   "label": {
+     "en": "Vulnerability",
+     "fr": "Vulnérabilité"
+   },
+   "plural": {
+     "en": "Vulnerabilities",
+     "fr": "Vulnérabilités"
+   },
+   "description": {
+     "en": "Vulnerability",
+     "fr": "Vulnérabilité"
+   },
+   "aliases": {
+     "en": [
+       "vulnerable",
+       "vulnerables",
+       "vulnerability",
+       "vulnerabilities"
+     ],
+     "fr": [
+       "vulnérable",
+       "vulnérables",
+       "vulnérabilité",
+       "vulnérabilités"
+     ]
+   },
+   "match": {
+     "active": [
+       "make vulnerable",
+       "makes vulnerable",
+       "making vulnerable",
+       "render vulnerable",
+       "renders vulnerable",
+       "rendering vbulnerable",
+       "rend vulnérable",
+       "rendent vulnérable",
+       "rend vulnérables",
+       "rendent vulnérables"
+     ],
+     "passive": [
+       "vulnerable",
+       "vulnerables",
+       "made vulnerable",
+       "made vulnerables",
+       "rendu vulnérable",
+       "rendue vulnérables",
+       "rendus vulnérable",
+       "rendues vulnérables",
+       "vulnérable",
+       "vulnérables"
+     ]
+   }
+ },
+ {
+   "type": "link",
+   "id": "link:eating",
+   "label": {
+     "en": "Eating",
+     "fr": "Repas"
+   },
+   "plural": {
+     "en": "Eatings",
+     "fr": "Repas"
+   },
+   "description": {
+     "en": "To eat",
+     "fr": "Manger"
+   },
+   "aliases": {
+     "en": [
+       "eat",
+       "dine",
+       "feed",
+       "feast",
+       "devour"
+     ],
+     "fr": [
+       "mange",
+       "avale",
+       "dévore",
+       "ingurgite"
+     ]
+   },
+   "match": {
+     "active": [
+       "eats?",
+       "eaten",
+       "dines on",
+       "feeds? on",
+       "feasts? on",
+       "devou?rs?",
+       "ingurgite(?:nt)?",
+       "mange(?:nt)?",
+       "dévore(?:nt)?",
+       "avale(?:nt)?"
+     ],
+     "passive": [
+       "eaten",
+       "mangée?s?"
+     ]
+   }
+ },
+ {
+   "type": "link",
+   "id": "link:death",
+   "label": {
+     "en": "Death",
+     "fr": "Décès"
+   },
+   "plural": {
+     "en": "Deaths",
+     "fr": "Décès"
+   },
+   "description": {
+     "en": "Death",
+     "fr": "Décès"
+   },
+   "aliases": {
+     "en": [
+       "death",
+       "die",
+       "dying",
+       "dead",
+       "kill",
+       "killed"
+     ],
+     "fr": [
+       "mort",
+       "mourir",
+       "décès",
+       "décédé",
+       "décéder",
+       "tué",
+       "tuer"
+     ]
+   },
+   "match": {
+     "active": [
+       "tuer?",
+       "kills?"
+     ],
+     "passive": [
+       "killed",
+       "tuée?s?"
+     ]
+   }
+ }
+]

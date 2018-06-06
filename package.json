@@ -1,0 +1,22 @@
+{
+  "name": "@datagica/ontology",
+  "description": "Ontology for Datanote or other projects",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Julian Bilcke <julian.bilcke@datagica.com>",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/datagica/ontology.git"
+  },
+  "keywords": [],
+  "main": "./index.js",
+  "dependencies": {
+    "@datagica/fast-index": "^0.0.5"
+  },
+  "devDependencies": {
+    "jest": "^23.1.0"
+  }
+}

@@ -1,0 +1,1716 @@
+[
+  {
+    "type": "entity",
+    "id": "entity:generic",
+    "label": {
+      "en": "Generic",
+      "fr": "Générique"
+    },
+    "plural": {
+      "en": "Generics",
+      "fr": "Génériques"
+    },
+    "description": {
+      "en": "Generic",
+      "fr": "Générique"
+    },
+    "aliases": {
+      "en": [
+        "generic",
+        "generics"
+      ],
+      "fr": [
+        "générique",
+        "génériques",
+        "generique",
+        "generiques"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:phone",
+    "label": {
+      "en": "Phone",
+      "fr": "Téléphone"
+    },
+    "plural": {
+      "en": "Phones",
+      "fr": "Téléphones"
+    },
+    "description": {
+      "en": "Phone number",
+      "fr": "Numéro de téléphone"
+    },
+    "aliases": {
+      "en": [
+        "phone num",
+        "phone nb",
+        "phone number",
+        "phone id",
+        "caller id",
+        "caller number",
+        "cell number",
+        "cellphone number",
+        "number",
+        "cellphone",
+        "phone",
+        "iphone",
+        "gsm"
+      ],
+      "fr": [
+        "gsm",
+        "numéro",
+        "numero",
+        "numéros",
+        "numeros",
+        "portable",
+        "l'iphone",
+        "d'iphone",
+        "iphone",
+        "téléphone",
+        "téléphone portable",
+        "telephone number",
+        "numéro de téléphone",
+        "numéro de portable",
+        "numéros de téléphone",
+        "numéros de portable",
+        "numero de telephone",
+        "numero de portable",
+        "num de telephone",
+        "num de portable",
+        "numero de tel",
+        "numero de tél",
+        "num de tél",
+        "num de tel"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:birthdate",
+    "label": {
+      "en": "Birthdate",
+      "fr": "Date de naissance"
+    },
+    "plural": {
+      "en": "Birthdates",
+      "fr": "Dates de naissance"
+    },
+    "description": {
+      "en": "Birth date",
+      "fr": "Date de naissance"
+    },
+    "aliases": {
+      "en": [
+        "birth date",
+        "birthdate",
+        "birth day",
+        "birthday"
+      ],
+      "fr": [
+        "date de naissance"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:email",
+    "label": {
+      "en": "E-mail",
+      "fr": "Courriel"
+    },
+    "plural": {
+      "en": "E-mails",
+      "fr": "Courriels"
+    },
+    "description": {
+      "en": "E-mail",
+      "fr": "Courriel"
+    },
+    "aliases": {
+      "en": [
+        "email",
+        "emails",
+        "e-mail",
+        "e-mails",
+        "gmail"
+      ],
+      "fr": [
+        "email",
+        "emails",
+        "e-mail",
+        "e-mails",
+        "l'email",
+        "d'email",
+        "d'emails",
+        "l'e-mail",
+        "d'e-mail",
+        "d'e-mails",
+        "courrier électronique",
+        "courrier electronique",
+        "courriel",
+        "courriels"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:iban",
+    "label": {
+      "en": "IBAN",
+      "fr": "IBAN"
+    },
+    "plural": {
+      "en": "IBANs",
+      "fr": "IBANs"
+    },
+    "description": {
+      "en": "International Bank Account Number",
+      "fr": "International Bank Account Number"
+    },
+    "aliases": {
+      "en": [
+        "International Bank Account Number",
+        "IBAN",
+        "IBANs",
+        "bank account",
+        "bank account number"
+      ],
+      "fr": [
+        "International Bank Account Number",
+        "l'IBAN",
+        "d'IBAN",
+        "IBAN",
+        "IBANs",
+        "compte bancaire",
+        "numéro de compte bancaire"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:artist",
+    "label": {
+      "en": "Artist",
+      "fr": "Artiste"
+    },
+    "plural": {
+      "en": "Artists",
+      "fr": "Artistes"
+    },
+    "description": {
+      "en": "Artist",
+      "fr": "Artiste"
+    },
+    "aliases": {
+      "en": [
+        "artist",
+        "artists"
+      ],
+      "fr": [
+        "artiste",
+        "artistes",
+        "l'artiste",
+        "d'artiste",
+        "d'artistes"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:interest",
+    "label": {
+      "en": "Interest",
+      "fr": "Intérêt"
+    },
+    "plural": {
+      "en": "Interests",
+      "fr": "Intérêts"
+    },
+    "description": {
+      "en": "Interests and hobbies",
+      "fr": "Intérêts et hobbies"
+    },
+    "aliases": {
+      "en": [
+        "interested in"
+      ],
+      "fr": [
+        "intéressé par",
+        "intéressés par",
+        "intéressée par",
+        "intéressées par",
+        "intéressé(s) par"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:address",
+    "label": {
+      "en": "Address",
+      "fr": "Adresse"
+    },
+    "plural": {
+      "en": "Addresses",
+      "fr": "Adresses"
+    },
+    "description": {
+      "en": "Address",
+      "fr": "Adresse"
+    },
+    "aliases": {
+      "en": [
+        "addr",
+        "address",
+        "addresses"
+      ],
+      "fr": [
+        "adresse",
+        "addresse",
+        "adresses",
+        "addresses",
+        "adresse postale",
+        "addresse postale",
+        "adresses postales",
+        "addresses postales",
+        "l'adresse",
+        "l'adresse postale",
+        "d'adresse",
+        "d'addresse",
+        "d'adresses",
+        "d'addresses",
+        "d'adresse postale",
+        "d'addresse postale",
+        "d'adresses postales",
+        "d'addresses postales"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:location",
+    "label": {
+      "en": "Location",
+      "fr": "Lieu"
+    },
+    "plural": {
+      "en": "Locations",
+      "fr": "Locations"
+    },
+    "description": {
+      "en": "Location",
+      "fr": "Lieu"
+    },
+    "aliases": {
+      "en": [
+        "location",
+        "locations"
+      ],
+      "fr": [
+        "lieu",
+        "lieux",
+        "localité",
+        "localités",
+        "région"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:city",
+    "label": {
+      "en": "City",
+      "fr": "Ville"
+    },
+    "plural": {
+      "en": "Cities",
+      "fr": "Villes"
+    },
+    "description": {
+      "en": "City",
+      "fr": "Ville"
+    },
+    "aliases": {
+      "en": [
+        "city",
+        "cities",
+        "town"
+      ],
+      "fr": [
+        "ville",
+        "villes",
+        "métropole",
+        "agglomération"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:engineering-element",
+    "label": {
+      "en": "Engineering Element",
+      "fr": "Élément d'ingénierie"
+    },
+    "plural": {
+      "en": "Engineering Elements",
+      "fr": "Éléments d'ingénierie"
+    },
+    "description": {
+      "en": "Engineering Element",
+      "fr": "Élément d'ingénierie"
+    },
+    "aliases": {
+      "en": [
+        "engineeringElement",
+        "Engineering Element",
+        "Engineering elements"
+      ],
+      "fr": [
+        "Élément d'ingénierie",
+        "l'élément d'ingénierie",
+        "d'élément d'ingénierie",
+        "Éléments d'ingénierie",
+        "Element d'ingenierie",
+        "Elements d'ingenierie"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:engineering-event",
+    "label": {
+      "en": "Engineering Event",
+      "fr": "Evénement d'ingénierie"
+    },
+    "plural": {
+      "en": "Engineering Events",
+      "fr": "Evénements d'ingénierie"
+    },
+    "description": {
+      "en": "Engineering Event",
+      "fr": "Evénement d'ingénierie"
+    },
+    "aliases": {
+      "en": [
+        "engineeringEvent",
+        "Engineering Event",
+        "Engineering events"
+      ],
+      "fr": [
+        "événement d'ingénierie",
+        "événement d'ingénierie",
+        "d'événement d'ingénierie",
+        "l'événement d'ingénierie",
+        "evénement d'ingénierie",
+        "évenement d'ingénierie",
+        "evenement d'ingénierie",
+        "événements d'ingénierie",
+        "evénements d'ingénierie",
+        "évenements d'ingénierie",
+        "evenements d'ingénierie"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:intelligence-event",
+    "label": {
+      "en": "Intelligence Event",
+      "fr": "Evénement Renseignement"
+    },
+    "plural": {
+      "en": "Intelligence Events",
+      "fr": "Evénements Renseignement"
+    },
+    "description": {
+      "en": "Intelligence Event",
+      "fr": "Evénement Renseignement"
+    },
+    "aliases": {
+      "en": [
+        "intelligenceEvent",
+        "intelligence event",
+        "intelligence events"
+      ],
+      "fr": [
+        "événement renseignement",
+        "evénement renseignement",
+        "évenements renseignement",
+        "evenements renseignement"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:business-event",
+    "label": {
+      "en": "Business Event",
+      "fr": "Evénement Business"
+    },
+    "plural": {
+      "en": "Business Events",
+      "fr": "Evénements Business"
+    },
+    "description": {
+      "en": "Business Event",
+      "fr": "Evénement Business"
+    },
+    "aliases": {
+      "en": [
+        "business event",
+        "business events"
+      ],
+      "fr": [
+        "événement business",
+        "l'événement business",
+        "d'événement business",
+        "evénement business",
+        "évenement business",
+        "evenement business",
+        "événements business",
+        "evénements business",
+        "évenements business",
+        "evenements business"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:event",
+    "label": {
+      "en": "Event",
+      "fr": "Evénement"
+    },
+    "plural": {
+      "en": "Events",
+      "fr": "Evénements"
+    },
+    "description": {
+      "en": "Event",
+      "fr": "Evénement"
+    },
+    "aliases": {
+      "en": [
+        "event",
+        "events"
+      ],
+      "fr": [
+        "événement",
+        "l'événement",
+        "d'événement",
+        "d'événements",
+        "evénement",
+        "évenement",
+        "evenement",
+        "événements",
+        "evénements",
+        "évenements",
+        "evenements"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:evidence",
+    "label": {
+      "en": "Evidence",
+      "fr": "Preuve"
+    },
+    "plural": {
+      "en": "Evidences",
+      "fr": "Preuves"
+    },
+    "description": {
+      "en": "Evidence",
+      "fr": "Preuve"
+    },
+    "aliases": {
+      "en": [
+        "evidence",
+        "evidences"
+      ],
+      "fr": [
+        "preuve",
+        "preuves",
+        "indice",
+        "indices"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:workplace",
+    "label": {
+      "en": "Workplace",
+      "fr": "Employeur"
+    },
+    "plural": {
+      "en": "Workplaces",
+      "fr": "Employeurs"
+    },
+    "description": {
+      "en": "Workplace",
+      "fr": "Employeur"
+    },
+    "aliases": {
+      "en": [
+        "workplace",
+        "work place",
+        "employer",
+        "workplaces"
+      ],
+      "fr": [
+        "employeur",
+        "l'employeur",
+        "d'employeur",
+        "employeurs",
+        "d'employeurs",
+        "lieu de travail",
+        "lieux de travail"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:company",
+    "label": {
+      "en": "Company",
+      "fr": "Société"
+    },
+    "plural": {
+      "en": "Companies",
+      "fr": "Sociétés"
+    },
+    "description": {
+      "en": "Company",
+      "fr": "Société"
+    },
+    "aliases": {
+      "en": [
+        "company",
+        "enterprise",
+        "business",
+        "corporation",
+        "startup"
+      ],
+      "fr": [
+        "société",
+        "entreprise",
+        "compagnie",
+        "boîte",
+        "l'entreprise",
+        "d'entreprise"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:diploma",
+    "label": {
+      "en": "Diploma",
+      "fr": "Diplôme"
+    },
+    "plural": {
+      "en": "Diplomas",
+      "fr": "Diplômes"
+    },
+    "description": {
+      "en": "Diploma",
+      "fr": "Diplôme"
+    },
+    "aliases": {
+      "en": [
+        "diploma",
+        "certification",
+        "certificate",
+        "deed",
+        "degree",
+        "qualification",
+        "diplom"
+      ],
+      "es": [
+        "título",
+        "titulo",
+        "certificado"
+      ],
+      "fr": [
+        "diplôme",
+        "diplome",
+        "diplômes",
+        "diplomes",
+        "diplômé",
+        "diplomé"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:language",
+    "label": {
+      "en": "Language",
+      "fr": "Langue"
+    },
+    "plural": {
+      "en": "Languages",
+      "fr": "Langues"
+    },
+    "description": {
+      "en": "Spoken language",
+      "fr": "Langue parlée"
+    },
+    "aliases": {
+      "en": [
+        "language",
+        "languages",
+        "spoken language",
+        "spoken languages",
+        "native language",
+        "native tongue",
+        "mother tongue",
+        "mother language"
+      ],
+      "fr": [
+        "langage",
+        "langages",
+        "langues",
+        "langue",
+        "langues parlées",
+        "langue maternelle"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:skill",
+    "label": {
+      "en": "Skill",
+      "es": "Competencia",
+      "de": "Kompetenz",
+      "fr": "Compétence"
+    },
+    "plural": {
+      "en": "Skills",
+      "fr": "Compétences"
+    },
+    "description": {
+      "en": "Skill",
+      "es": "Competencia",
+      "de": "Kompetenz",
+      "fr": "Compétence"
+    },
+    "aliases": {
+      "en": [
+        "skill",
+        "skills"
+      ],
+      "es": [
+        "competencia",
+        "competència",
+        "habilitat",
+        "talent",
+        "aptitud"
+      ],
+      "de": [
+        "kompetenz"
+      ],
+      "fr": [
+        "compétence",
+        "competence",
+        "compétences",
+        "competences"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:person",
+    "label": {
+      "en": "Person",
+      "fr": "Personne"
+    },
+    "plural": {
+      "en": "Persons",
+      "fr": "Personnes"
+    },
+    "description": {
+      "en": "Person",
+      "fr": "Personne"
+    },
+    "aliases": {
+      "en": [
+        "person",
+        "persons",
+        "individual",
+        "individuals",
+        "man",
+        "woman",
+        "men",
+        "women",
+        "girl",
+        "boy",
+        "girls",
+        "boys",
+        "elder",
+        "elders"
+      ],
+      "fr": [
+        "personne",
+        "personnes",
+        "individu",
+        "individus",
+        "homme",
+        "femme",
+        "hommes",
+        "femmes",
+        "garçon",
+        "garçons",
+        "garcon",
+        "garcons",
+        "fille",
+        "filles",
+        "l'individu",
+        "d'individu",
+        "d'individus"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:protagonist",
+    "label": {
+      "en": "Protagonist",
+      "fr": "Protagoniste"
+    },
+    "plural": {
+      "en": "Protagonists",
+      "fr": "Protagonistes"
+    },
+    "description": {
+      "en": "Protagonist",
+      "fr": "Protagoniste"
+    },
+    "aliases": {
+      "en": [
+        "protagonist",
+        "protagonists",
+        "protagonist of",
+        "protagonist in",
+        "involved in",
+        "embroiled",
+        "entangled"
+      ],
+      "fr": [
+        "protagoniste",
+        "protagonistes",
+        "protagoniste de",
+        "protagoniste des",
+        "protagoniste dans",
+        "protagonistes de",
+        "protagonistes des",
+        "protagonistes dans",
+        "impliqué",
+        "participé à",
+        "participée à",
+        "participé au",
+        "participée au"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:character",
+    "label": {
+      "en": "Character",
+      "fr": "Personnage"
+    },
+    "plural": {
+      "en": "Characters",
+      "fr": "Personnages"
+    },
+    "description": {
+      "en": "Character",
+      "fr": "Personnage"
+    },
+    "aliases": {
+      "en": [
+        "character",
+        "characters"
+      ],
+      "fr": [
+        "personnage",
+        "personnages"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:firstname",
+    "label": {
+      "en": "Firstname",
+      "fr": "Prénom"
+    },
+    "plural": {
+      "en": "Firstnames",
+      "fr": "Prénoms"
+    },
+    "description": {
+      "en": "Firstname",
+      "fr": "Prénom"
+    },
+    "aliases": {
+      "en": [
+        "Firstname",
+        "first name",
+        "Firstnames",
+        "first names"
+      ],
+      "fr": [
+        "prénom",
+        "prenom",
+        "prénoms",
+        "prenoms"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:name",
+    "label": {
+      "en": "Name",
+      "fr": "Nom"
+    },
+    "plural": {
+      "en": "Names",
+      "fr": "Noms"
+    },
+    "description": {
+      "en": "Name",
+      "fr": "Nom"
+    },
+    "aliases": {
+      "en": [
+        "name",
+        "names"
+      ],
+      "fr": [
+        "nom",
+        "noms"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:weapon",
+    "label": {
+      "en": "Weapon",
+      "fr": "Arme"
+    },
+    "plural": {
+      "en": "Weapons",
+      "fr": "Armes"
+    },
+    "description": {
+      "en": "Weapon",
+      "fr": "Arme"
+    },
+    "aliases": {
+      "en": [
+        "weapon",
+        "weapons"
+      ],
+      "fr": [
+        "arme",
+        "armes",
+        "l'arme",
+        "d'arme",
+        "d'armes",
+        "armé",
+        "armée",
+        "armés",
+        "armées"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:animal",
+    "label": {
+      "en": "Animal",
+      "fr": "Animal"
+    },
+    "plural": {
+      "en": "Animals",
+      "fr": "Animaux"
+    },
+    "description": {
+      "en": "Animal",
+      "fr": "Animal"
+    },
+    "aliases": {
+      "en": [
+        "animal",
+        "animals"
+      ],
+      "fr": [
+        "animal",
+        "animaux",
+        "d'animal",
+        "d'animaux",
+        "l'animal"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:artery",
+    "label": {
+      "en": "Artery",
+      "fr": "Artère"
+    },
+    "plural": {
+      "en": "Arteries",
+      "fr": "Artères"
+    },
+    "description": {
+      "en": "Artery",
+      "fr": "Artère"
+    },
+    "aliases": {
+      "en": [
+        "artery",
+        "arteries"
+      ],
+      "fr": [
+        "artère",
+        "artere",
+        "artères",
+        "arteres",
+        "l'artère",
+        "d'artère",
+        "d'artères"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:bacteria",
+    "label": {
+      "en": "Bacteria",
+      "fr": "Bactérie"
+    },
+    "plural": {
+      "en": "Bacteria",
+      "fr": "Bactéries"
+    },
+    "description": {
+      "en": "Bacteria",
+      "fr": "Bactérie"
+    },
+    "aliases": {
+      "en": [
+        "bacteria",
+        "bacterias",
+        "bacterial",
+        "bacterian"
+      ],
+      "fr": [
+        "bactérie",
+        "bactéries",
+        "bactérien",
+        "bactérienne",
+        "bactériens",
+        "bactériennes",
+        "bacterie",
+        "bacteries",
+        "bacterien",
+        "bacterienne",
+        "bacteriens",
+        "bacteriennes"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:cell",
+    "label": {
+      "en": "Cell",
+      "fr": "Cellule"
+    },
+    "plural": {
+      "en": "Cells",
+      "fr": "Cellules"
+    },
+    "description": {
+      "en": "Cell",
+      "fr": "Cellule"
+    },
+    "aliases": {
+      "en": [
+        "cell",
+        "cells",
+        "cellular"
+      ],
+      "fr": [
+        "cellule",
+        "cellules"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:disease",
+    "label": {
+      "en": "Disease",
+      "fr": "Maladie"
+    },
+    "plural": {
+      "en": "Diseases",
+      "fr": "Maladies"
+    },
+    "description": {
+      "en": "Disease",
+      "fr": "Maladie"
+    },
+    "aliases": {
+      "en": [
+        "disease",
+        "diseases",
+        "sickness",
+        "sicknesses",
+        "malady",
+        "ailment",
+        "ailments",
+        "infection",
+        "infections",
+        "STD"
+      ],
+      "fr": [
+        "maladie",
+        "maladies",
+        "maux",
+        "MST"
+      ]
+    }
+  },{
+    "type": "entity",
+    "id": "entity:symptom",
+    "label": {
+      "en": "Symptom",
+      "fr": "Symptôme"
+    },
+    "plural": {
+      "en": "Symptoms",
+      "fr": "Symptômes"
+    },
+    "description": {
+      "en": "Symptom",
+      "fr": "Symptôme"
+    },
+    "aliases": {
+      "en": [
+        "symptom",
+        "symptoms"
+      ],
+      "fr": [
+        "symptôme",
+        "symptômes",
+        "symptome",
+        "symptomes"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:drug",
+    "label": {
+      "en": "Drug",
+      "fr": "Substance"
+    },
+    "plural": {
+      "en": "Drugs",
+      "fr": "Substances"
+    },
+    "description": {
+      "en": "Drug",
+      "fr": "Substance"
+    },
+    "aliases": {
+      "en": [
+        "drug",
+        "drugs"
+      ],
+      "fr": [
+        "médicament",
+        "medicament",
+        "médicaments",
+        "medicaments",
+        "substance",
+        "substance active",
+        "substances",
+        "substances active",
+        "drogue",
+        "drogues"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:gene",
+    "label": {
+      "en": "Gene",
+      "fr": "Gène"
+    },
+    "plural": {
+      "en": "Genes",
+      "fr": "Gènes"
+    },
+    "description": {
+      "en": "Gene",
+      "fr": "Gène"
+    },
+    "aliases": {
+      "en": [
+        "gene",
+        "genes",
+        "genome"
+      ],
+      "fr": [
+        "gène",
+        "gènes",
+        "génome"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:muscle",
+    "label": {
+      "en": "Muscle",
+      "fr": "Muscle"
+    },
+    "plural": {
+      "en": "Muscles",
+      "fr": "Muscles"
+    },
+    "description": {
+      "en": "Muscle",
+      "fr": "Muscle"
+    },
+    "aliases": {
+      "en": [
+        "muscle",
+        "muscles"
+      ],
+      "fr": [
+        "muscle",
+        "muscles"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:healthrisk",
+    "label": {
+      "en": "Health Risk",
+      "fr": "Risque santé"
+    },
+    "plural": {
+      "en": "Health Risks",
+      "fr": "Risques santé"
+    },
+    "description": {
+      "en": "Health Risk",
+      "fr": "Risque santé"
+    },
+    "aliases": {
+      "en": [
+        "health risk",
+        "health risks",
+        "sanitary risk",
+        "sanitary risks"
+      ],
+      "fr": [
+        "risque santé",
+        "risque sur la santé",
+        "risque sanitaire",
+        "risques santé",
+        "risques sur la santé",
+        "risques sanitaires"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:nerve",
+    "label": {
+      "en": "Nerve",
+      "fr": "Nerf"
+    },
+    "plural": {
+      "en": "Nerves",
+      "fr": "Nerfs"
+    },
+    "description": {
+      "en": "Nerve",
+      "fr": "Nerf"
+    },
+    "aliases": {
+      "en": [
+        "nerve",
+        "nerves"
+      ],
+      "fr": [
+        "nerf",
+        "nerfs"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:protein",
+    "label": {
+      "en": "Protein",
+      "fr": "Protéine"
+    },
+    "plural": {
+      "en": "Proteins",
+      "fr": "Protéines"
+    },
+    "description": {
+      "en": "Protein",
+      "fr": "Protéine"
+    },
+    "aliases": {
+      "en": [
+        "protein",
+        "proteins"
+      ],
+      "fr": [
+        "protéine",
+        "protéines",
+        "proteine",
+        "proteines"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:virus",
+    "label": {
+      "en": "Virus",
+      "fr": "Virus"
+    },
+    "plural": {
+      "en": "Viruses",
+      "fr": "Virus"
+    },
+    "description": {
+      "en": "Virus",
+      "fr": "Virus"
+    },
+    "aliases": {
+      "en": [
+        "virus",
+        "viruses"
+      ],
+      "fr": [
+        "virus"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:material",
+    "label": {
+      "en": "Material",
+      "fr": "Matériau"
+    },
+    "plural": {
+      "en": "Materials",
+      "fr": "Matériaux"
+    },
+    "description": {
+      "en": "Material",
+      "fr": "Matériau"
+    },
+    "aliases": {
+      "en": [
+        "material",
+        "materials"
+      ],
+      "fr": [
+        "matériau",
+        "matériaux",
+        "materiau",
+        "materiaux"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:alloy",
+    "label": {
+      "en": "Alloy",
+      "fr": "Alliage"
+    },
+    "plural": {
+      "en": "Alloys",
+      "fr": "Alliages"
+    },
+    "description": {
+      "en": "Alloy",
+      "fr": "Alliage"
+    },
+    "aliases": {
+      "en": [
+        "alloy",
+        "alloys"
+      ],
+      "fr": [
+        "alliage",
+        "alliages"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:product",
+    "label": {
+      "en": "Product",
+      "fr": "Produit"
+    },
+    "plural": {
+      "en": "Products",
+      "fr": "Produits"
+    },
+    "description": {
+      "en": "Goods, consumer products",
+      "fr": "Produit de consommation"
+    },
+    "aliases": {
+      "en": [
+        "goods",
+        "product",
+        "products"
+      ],
+      "fr": [
+        "produit",
+        "produits",
+        "biens"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:device",
+    "label": {
+      "en": "Device",
+      "fr": "Appareil"
+    },
+    "plural": {
+      "en": "Devices",
+      "fr": "Appareils"
+    },
+    "description": {
+      "en": "Device",
+      "fr": "Appareil"
+    },
+    "aliases": {
+      "en": [
+        "machine",
+        "machines",
+        "device",
+        "devices",
+        "hardware"
+      ],
+      "fr": [
+        "machine",
+        "machines",
+        "appareil",
+        "matériel",
+        "materiel"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:resume",
+    "label": {
+      "en": "Resume",
+      "fr": "CV"
+    },
+    "plural": {
+      "en": "Resumes",
+      "fr": "CVs"
+    },
+    "description": {
+      "en": "Resume",
+      "fr": "CV"
+    },
+    "aliases": {
+      "en": [
+        "résume",
+        "resume",
+        "resumes",
+        "curriculum"
+      ],
+      "fr": [
+        "cv",
+        "curriculum",
+        "curriculums",
+        "curriculum vitae"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:human-resource",
+    "label": {
+      "en": "Human Resource",
+      "fr": "Ressource Humaine"
+    },
+    "plural": {
+      "en": "Human Resources",
+      "fr": "Ressources Humaines"
+    },
+    "description": {
+      "en": "Human Resource",
+      "fr": "Ressource Humaine"
+    },
+    "aliases": {
+      "en": [
+        "human ressource",
+        "human ressources",
+        "employees",
+        "employee"
+      ],
+      "fr": [
+        "ressource humaine",
+        "ressources humaines",
+        "employé",
+        "employés",
+        "employée",
+        "employées"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:position",
+    "label": {
+      "en": "Position",
+      "fr": "Poste"
+    },
+    "plural": {
+      "en": "Positions",
+      "fr": "Postes"
+    },
+    "description": {
+      "en": "Position",
+      "fr": "Poste"
+    },
+    "aliases": {
+      "en": [
+        "occupation",
+        "position",
+        "job position",
+        "work position",
+        "office position",
+        "job",
+        "vocation"
+      ],
+      "fr": [
+        "position",
+        "poste",
+        "profession",
+        "métier",
+        "emploi"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:note",
+    "label": {
+      "en": "Note",
+      "fr": "Note"
+    },
+    "plural": {
+      "en": "Notes",
+      "fr": "Notes"
+    },
+    "description": {
+      "en": "Note",
+      "fr": "Note"
+    },
+    "aliases": {
+      "en": [
+        "note"
+      ],
+      "fr": [
+        "note"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:country",
+    "label": {
+      "en": "Country",
+      "fr": "Pays"
+    },
+    "plural": {
+      "en": "Countries",
+      "fr": "Pays"
+    },
+    "description": {
+      "en": "Country",
+      "fr": "Pays"
+    },
+    "aliases": {
+      "en": [
+        "country",
+        "countries"
+      ],
+      "fr": [
+        "pays"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:nationality",
+    "label": {
+      "en": "Nationality",
+      "fr": "Nationalité"
+    },
+    "plural": {
+      "en": "Nationalities",
+      "fr": "Nationalités"
+    },
+    "description": {
+      "en": "Nationality",
+      "fr": "Nationalité"
+    },
+    "aliases": {
+      "en": [
+        "nationality",
+        "country of birth",
+        "country of origin",
+        "nationalities"
+      ],
+      "fr": [
+        "nationalité",
+        "nationalités",
+        "pays d'origine",
+        "pays de naissance",
+        "origine"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:institution",
+    "label": {
+      "en": "Institution",
+      "fr": "Institution"
+    },
+    "plural": {
+      "en": "Institutions",
+      "fr": "Institutions"
+    },
+    "description": {
+      "en": "Institution",
+      "fr": "Institution"
+    },
+    "aliases": {
+      "en": [
+        "institution",
+        "school",
+        "university",
+        "business school",
+        "college"
+      ],
+      "fr": [
+        "institution",
+        "école",
+        "université",
+        "lyçée",
+        "établissement",
+        "etablissement"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:experience",
+    "label": {
+      "en": "Experience",
+      "fr": "Expérience"
+    },
+    "plural": {
+      "en": "Experiences",
+      "fr": "Expériences"
+    },
+    "description": {
+      "en": "Experience",
+      "fr": "Expérience"
+    },
+    "aliases": {
+      "en": [
+        "experience",
+        "past experience",
+        "professional experience",
+        "work experience",
+        "work history",
+        "job history",
+        "occupations",
+        "positions",
+        "jobs"
+      ],
+      "fr": [
+        "parcours",
+        "parcours professionnel",
+        "expériences",
+        "expériences professionnelles",
+        "expérience professionnelle"
+      ]
+    }
+  },
+  {
+    "type": "entity",
+    "id": "entity:compensation",
+    "label": {
+      "en": "Compensation",
+      "fr": "Rémunération"
+    },
+    "plural": {
+      "en": "Compensations",
+      "fr": "Rémunérations"
+    },
+    "description": {
+      "en": "Compensation",
+      "fr": "Rémunération"
+    },
+    "aliases": {
+      "en": [
+        "compensation",
+        "compensations",
+        "salary",
+        "salaries"
+      ],
+      "fr": [
+        "gratification",
+        "gratifications",
+        "indemnités",
+        "indemnité",
+        "salaire",
+        "salaires",
+        "rémunération",
+        "rémunérations"
+      ]
+    }
+  }
+]
